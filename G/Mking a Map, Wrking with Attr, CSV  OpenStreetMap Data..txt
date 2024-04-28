@@ -1,0 +1,49 @@
+Step 1 – To make a map with Raster Data – Open QGIS Desktop and open a new project.  
+Add a Raster Layer with the image shown below.  ( add Mumbai map).
+
+Step 2 – In Project tab click Project Composer. Give it a name and open it. 
+
+Step 3 – Select the add new map tool and select the entire canvas.  (L)
+
+Step 4 To insert an image on the map select the add image tool and in the item properties tab 
+select the icon you want to insert.  (L)
+
+Step 5 – To add a Label to the map select the Add Label tool and select the text field. You can 
+also change the label properties as per your liking. 
+
+Step 6  To add a legend select the add legend tool and select the legend area.  
+
+Step 7 – To add a Scalebar select the add a scalebar tool and select where you want the scalebar 
+to be placed.  
+
+Step 8  Similarly you can add arrows, shapes, node items, etc.
+
+Step 9 – Finally you click the save as image button then enter the name and then hit save.  
+
+Step 10 – To create a map with Vector Data – Open QGIS Desktop. Layer > Add Layer > Add 
+Vector Layer. 
+
+Step 11 – Select the vector file and hit open.  
+
+Step 12 – Project > New Print Composer. Enter a name and click OK.
+
+Step 13 – Select the add new map tool and select the entire canvas. 
+
+Step 14 – You can add the same things you could add to the map made with raster data. And 
+then finally save as image. 
+
+Step 15 – Now create a new project. Layer > Add Layer > Add Delimited Text Layer. 
+
+Step 16 – Enter data as shown and then click OK.  
+
+Step 17 – Install the OpenLayers and OSM place search plugin.  
+
+Step 18 – Web > OpenLayers plugin > OpenStreetMap  
+
+Step 19 – To search for a place type its name in the OSM place search. 
+
+Step 20 – Select the one you want to find and hit zoom. 
+
+
+
+

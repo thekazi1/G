@@ -1,0 +1,37 @@
+Practical No 4
+
+
+Aim: Working with attributes, terrain Data. 
+
+
+Step 1 – Open QGIS Desktop and create a new project. Layer > Add Layer > Add Vector Layer. 
+
+Step 2 	Select the following file and click add.
+
+Step 3 	Right click on the layer and open Attribute Table. 
+
+Step 4 Click the select features using expression tool and enter the following expression then click select features. 
+
+Step 5 – Create a new project and add the following raster layer. 
+
+Step 6 – Raster > Extraction > Clip Raster by Extent. 
+
+Step 7 – Set the following parameters and hit run. 
+
+Step 8 – Raster > Extraction > Contour. 
+
+Step 9 – Set the following parameters and hit run. 
+
+Step 10 – To find the highest point open the attribute table. Sort the elev column in descending order, 
+		select th first row and click the zoom map to selected rows tool. 
+
+Step 11 – To get labels, open layer properties in that open the layer menu then 
+		select the following options and then hit apply. 
+
+Step 12 – Raster > Analysis > Hill Shade. 
+
+Step 13 – Set the following parameters and hit run. 
+
+
+
+

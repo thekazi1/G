@@ -1,0 +1,49 @@
+Practical No 6
+
+Aim: Georeferencing Topo Sheets and Scanned Maps, Georeferencing Aerial Imagery and Digitizing Map Data. 
+
+Step 1 – Layer > Add Layer > Add Vector Layer. Select the following .shp file and hit add. 
+
+Step 2 – Make sure that the georeferencer plugin is installed. Raster > Georeferencer. 
+
+Step 3 	File > Open Raster. Select the file you want to open and click open. 
+
+Step 4 	Select any point on the map and then click on from map canvas. 
+
+Step 5 – Click the approximately at the same point from map canvas and then hit OK. 
+
+Step 6 	Similarly you can add as many points as you like. Once you are done click on settings > transform settings. 
+
+Step 7 – Set the following parameters and then click OK. 
+
+Step 8 	Now click the start georeferencing button. 
+
+Step 9 You can reduce the transparency from layer properties to see is georeferencing is done properly. 
+
+Step 10 Now open a new project. And install the open layers and OSM place search plugin plugin. 
+
+Step 11 Web > OpenLayers plugin > OpenStreetMap. 
+
+Step 12 Find the gateway of India using OSM place search. 
+
+Step 13 – Raster > Georeferencer. 
+
+Step 14 Using the open raster tool open the following .tif file. 
+
+Step 15 – Add points as done before. 
+
+Step 16 Set the following parameters in Transformation settings and then click run Georeferencing. 
+
+Step 17 – Now open a new project. Layer > Add new layer > Add Raster Layer. Select the following .tif file and hit add. 
+
+Step 18 – Open leyer properties go to the pyramids tab, select all the pyramids and click build pyramids. 
+
+Step 19 Settings > Option. Go to the digitizing tab and set the following parameters and click OK. 
+
+Step 20 Layers > New Layer > New SpatialLite layer. 
+
+Step 21 – Set the following parameters and click OK. 
+
+Step 22 Add roads as you like and change their properties. 
+
+

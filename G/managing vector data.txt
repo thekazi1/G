@@ -1,0 +1,69 @@
+Step 1 – Open QGIS Desktop 2.18. To create a polygon layer in the Layer tab, click on Create Layer and then select New Shapefile Layer. 
+
+Step 2 – Select the options and enter the data as shown below.  
+80
+
+Step 3 – Enter a file name and click OK. 
+
+Step 4 – A new Shapefile Layer has been created now click the Toggle Editing button and then the add feature button situated in the top left hand corner. 
+
+Step 5 – Now to create a polygon left click to add points on the canvas and then right click to save and add field data. 
+
+Step 6 – Add as many polygons as you like. 
+
+Step 7 – Now to create a line layer again click New Shapefile Layer and this time select the following options. 
+
+ Step 8 – Enter the name and save the file. 
+
+Step 9 – A new Lines Layer is created. Again click the Toggle Editing button and Add Line Feature button. 
+  
+Step 10 – Now create and save lines as shown below. 
+
+Step 11 – You can create as many lines as you like. 
+  
+ 
+Step 12 – Now create a new Point type Shapefile Layer and select the options as shown below and finally enter the layer name and save. 
+  
+ Step 13 – A new layer is created now again click the Toggle Editing button and Add Feature button. 
+  
+ Step 14 – Click wherever you want to add and point and enter the following data. 
+  
+Step 15 – Similarly you can add as many points as you like. 
+  
+Step 16 You can change the properties of any of the layers by just right click on any of the layer and then clicking properties. 
+   
+Step 17 – You can change anything like its color, size, symbol, etc. 
+  
+ Step 18 	The same can be done to other layers. 
+  
+Step 19 	Now to save the project click on Project > Save As enter file name and then click Save. 
+  
+ Step 20 – Now to calculate line length and statistics create a new project. In the Layer Tab click on Add Layer and select Add Vector Layer. 
+  
+Step 21 – Select the option as shown below then choose the .shp file you want to add and then click Open. 
+The file is loaded. 
+  
+You can add as many layers you like using this method. 
+  
+Step 22 – Now right click on a Layer and click Open Attribute Table. 
+  
+Step 23 – Now toggle editing and click on Open Field calculator. 
+  
+ 
+Step 24 – Enter data as shown below and then click OK. 
+  
+ 
+ 
+New Field is added. 
+  
+ 
+Step 25 – Now in the Vector tab click on Analysis Tools and select Basic Statistics for numeric feilds. 
+  
+ 
+Step 26 – Select the options as shown below and then click Run. 
+  
+ 
+The following result gets generated. 
+  
+ 
+ 

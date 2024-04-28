@@ -1,0 +1,33 @@
+Step 1 – Open QGIS 2.18 Desktop and Create a new project. In Layer tab click Add Layer and 
+select Add Raster Layer. 
+
+Step 2  Select the file you want and then click Open.  
+
+Step 3  Open Layer Properties, set them as following and then click apply. 
+
+Step 4  Add another layer using the pervious method.  
+
+Step 5  Set its layer properties as shown below.  
+            render type = single pseduocolor
+            band1 0 -240
+You can untick a layer to hide it.  ( Lft dwn corner)
+
+Step 6 – In the Raster tab click Raster Calculator.  
+
+Step 7 – Select the output layer then insert your raster calculator expression and then click OK. 
+
+Step 8 – Set the properties as shown below and then click apply. 
+
+Step 9 – For Raster Clipping create a New Project. And add these 4 .tif files.  
+
+Step 10 – In Raster tab click on miscellaneous and select Merge.  
+
+Step 11 – Select the input and output files and then click OK. 
+
+Step 12 – Now add a new vector layer as shown below. 
+
+Step 13 – In Raster Tab click on Extraction and click on Clipper.  
+
+Step 14 – Select the input and output layer, select clip type as mask select the mask you want 
+to clip and then click OK.  
+

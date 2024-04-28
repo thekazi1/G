@@ -1,0 +1,57 @@
+PRACTICAL – 8 
+
+Aim: Advanced GIS Operations 1: Nearest Neighbor Analysis,
+	 Sampling Raster Data using Points or Polygons, Interpolating Point Data. 
+
+Step 1 – Add the following vector layer. 
+
+Step 2 – Add a delimited text layer. Set the following parameters and click OK. 
+
+Step 3 – Vector > Analysis Tools > Distance Matrix. Set the following parameters and hit OK. 
+
+Step 4 – Create a new project. Add the following Raster Layer. 
+
+Step 5 – Add the following Delimited Text Layer. Set the following attributes and click add. 
+
+Step 6 – Select the identify features tool and click on any area to show its features. 
+
+Step 7 – Install the point sampling tool plugin. 
+
+Step 8 – Select the Delimited Text Layer and then Plugin > Analysis > Point Sampling Tool. 
+		Set the following parameters and click OK. 
+
+Step 9 – Create a new project. And add a new Raster layer. 
+
+Step 10 – Add the following Vector layer. 
+
+Step 11 – Install Zonal Statistics plugin. 
+
+Step 12 – Raster > Zonal Statistics. Set the following preferences and click OK. 
+
+Step 13 – Open the Attribute Table of the vector layer. 
+
+Step 14 – Select the identify features tool and click to any area to see its features. 
+
+Step 15 – Open the Properties panel of the vector layer and set the following attributes then click apply. 
+
+Step 16 – Create a new project. Add the following Vector Layer. 
+
+Step 17 – Add the following .shp file. 
+
+Step 18 – Click anywhere with the identify features tool on to find out the features of that region. 
+
+Step 19 Install Interpolation plugin.
+
+Step 20 – Raster > Interpolation. Set the following parameters and click OK. 
+
+Step 21 Raster > Extraction > Clipper. Set the following parameters and click OK.  
+
+Step 22 Raster > Extraction > Contour. Set the following attributes and click OK. 
+
+Step 23 Open the properties of the contour layer. Go to the labels tab,
+		 set the following attributes and then click Apply. 
+
+Step 24 Open the properties of the clipped layer. Set the following attributes and hit Apply. 
+
+
+

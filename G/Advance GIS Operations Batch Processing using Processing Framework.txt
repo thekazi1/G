@@ -1,0 +1,56 @@
+PRACTICAL – 9 
+
+Aim: Advance GIS Operations 2: Batch Processing using Processing Framework, 
+		Automating Complex Workflows using Processing Modeler and 
+		Automating Map Creation with Print Composer Atlas. 
+
+Step 1 – Add the following vector layer. 
+
+Step 2 – Vector > Geoprocessing Tools > Dissolve. Set the following attributes and click OK. 
+
+Step 3 – Select a layer. Go to the layers tab and click Save As. Set the following attributes and click OK. 
+
+Step 4 – Processing > Toolbox. Search for Clip. 
+
+Step 5 – Right click on Clip and select execute as batch process. Set the following parameters and click run. 
+
+Step 6 	Create a new project. Add the following raster layer. 
+
+Step 7 	Processing > Graphical Modular. 
+
+Step 8 – Set the input and algorithms as following and save the model. 
+
+Step 9 	Processing > Toolbox. Search for vectorize. 
+
+Step 10 – Double click the vectorize tool, select the input layer and click run. 
+
+Step 11 – Create a new project. Add the following Vector layer. 
+
+Step 12 – Add the following vector layer. 
+
+Step 13 – Project > New Print Composer. 
+
+Step 14 – Layout > Add Map. Select the entire canvas. 
+
+Step 15 – Tick the Controlled by Atlas checkbox in item properties. 
+
+Step 16 – Go to Atlas generation and set the following attributes. 
+
+Step 17 – Atlas > Preview Atlas. 
+
+Step 18 – Atlas > Next Feature. 
+
+Step 19 – Layout > Add Label. 
+
+Step 20 Layout > Add Scalebar. 
+
+Step 21 – Layout > Add Legend. 
+
+Step 22 Layout > Add Image. 
+
+Step 23 – Layout > Add Arrow. 
+
+Step 24 Layout > Add Attribute Table. 
+
+Step 25 – Atlas > Export Atlas as Images. 
+

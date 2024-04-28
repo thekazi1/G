@@ -1,0 +1,16 @@
+Practical No 5
+
+Aim: Working with Projections and WMS Data. 
+
+Step 1 – Layers > Add Layers > Add Raster Layer. Select the following file and hit add. 
+
+Step 2 – Select the layer go in the layer tab and select Save as, enter the following parameters and click OK. 
+
+Step 3 – Layer > Add layer > Add raster layer. Select the following layer and hit add. 
+
+Step 4 – Project > Properties. 
+
+Step 5 – In the project properties open the CRS menu, select the following parameters and hit apply. 
+
+
+

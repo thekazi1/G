@@ -1,0 +1,40 @@
+PRACTICAL – 10 
+
+Aim: Validating Map data. 
+
+Step 1 – Open MS Excel and open the following file. 
+
+Step 2 – Open the following file. 
+
+Step 3 – View > Freeze Panes > Freeze Top Row. 
+
+Step 4 – Select the A Column. Home > Conditional Formatting > Highlight Cell Rules > Duplicate Values. 
+
+Step 5 – Select the entire data. Data > Remove Duplicates. 
+
+Step 6 – Select the G column and press ctrl + F.  
+
+Step 7 – Select the F column. Insert > Scatter. 
+
+Step 8 – Select the first row. Home > Sort & Filter > Filter. 
+
+Step 9 – Click the arrow beside age. Only select 82 and 88 and then click OK. 
+
+Step 10 – Select both the columns and click delete. 
+
+Step 11 – Insert > Pivot Table. Set the following attributes and click OK. 
+
+Step 12 – Drag and Drop fields as shown below. 
+
+Step 13 – Select T2, type the following function and click enter. 
+
+Step 14 – Open a new project in QGIS Desktop. Add the following vector layer. 
+
+Step 15 – Add the following delimited text layer. 
+
+Step 16 – Select both the layers and right click. Export > Save Features as. Set the following parameters and click OK. 
+
+Step 17 – Settings > Option. Set the following parameters and then click OK. 
+
+Step 18 – Vector > Data Management Tools > Join Attributes by Location. Set the following attributes and hit run. 
+

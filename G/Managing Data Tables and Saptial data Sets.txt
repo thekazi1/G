@@ -1,0 +1,48 @@
+PRACTICAL – 7 
+
+Aim: Managing Data Tables and Saptial data Sets: Table joins,
+	 spatial joins, points in polygon analysis, performing spatial queries. 
+
+Step 1 – Layer > Add Layer > Add Vector Layer. Select the following layer and hit add. 
+
+Step 2 – Open Notepad and create the following file. 
+
+Step 3 	Layer > Add Layer > Add Delimited Text Layer. Set the following attributes and hit add. 
+
+Step 4 – Open the properties of the first layer and click on the Joins menu. There set the following parameters. 
+
+Step 5 	Finally click Apply. 
+
+Step 6 Now open the properties of the first layer go to the symbology menu and set the following parameters then hit apply. 
+
+Step 7 Now open a new project. Layer > Add Layer > Add Vector Layer. Select the following file and click add. 
+
+Step 8 	Add another .shp file the same way. 
+
+Step 9 	Vector > Data Management Tools > Join Attributes by Location. 
+
+Step 10 – Set the following parameters and hit run. 
+
+Step 11 – Select the identify features tools and click on an area to see its features. 
+
+Step 12 – Create a new project. Add a new vector layer. 
+
+Step 13 – Add a new delimited text layer. Set the following parameters and hit add. 
+
+Step 14 – Vector > Analysis Tools > Count Points in Polygons. 
+
+Step 15 – Set the following parameters and hit run. 
+
+Step 16 – Again select the identify features tool and click on a region to show its features. 
+
+Step 17 – Open a new project. Add a new Vector layer. 
+
+Step 18 – Add another vector layer. 
+
+Step 19 – Project > Properties. Set the following parameters and click apply. 
+
+Step 20 – Vector > Geoprocessing > Buffer. Set the following parameters and hit run. 
+
+Step 21 – Vector > Research Tools > Select by Location. Set the following parameters and hit run. 
+
+
